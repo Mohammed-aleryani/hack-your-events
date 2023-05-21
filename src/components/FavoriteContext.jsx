@@ -16,17 +16,6 @@ export const FavoriteProvider = (props) => {
     }
   };
 
-  useEffect(() => {
-    localStorage.setItem("favorites", JSON.stringify(favorites));
-  }, [favorites]);
-
-  useEffect(() => {
-    const storedFavorites = localStorage.getItem("favorites");
-    if (storedFavorites) {
-      setFavorites(JSON.parse(storedFavorites));
-    }
-  }, []);
-
   return (
     <FavoritesContext.Provider value={[favorites, handleFavorites]}>
       {props.children}

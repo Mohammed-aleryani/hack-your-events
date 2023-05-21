@@ -1,2 +1,2 @@
 # Deployment page link:
-https://646a4f63e990d51dcaeaad89--steady-concha-4963a0.netlify.app/
+https://646a7f1de49d324ac46a4b2a--jocular-quokka-07b283.netlify.app/

@@ -50,9 +50,12 @@ const EventDetails = () => {
         <p className="event-venue">
           address: {event._embedded.venues[0].address.line1}
         </p>
+        <p className="event-venue">
+          Post code: {event._embedded.venues[0].postalCode}
+        </p>
         <Link to={event.url}> Book your ticket here</Link>
         <div
-          className="favorite"
+          className="favorite-details"
           onClick={() => {
             handleFavorites(event);
           }}

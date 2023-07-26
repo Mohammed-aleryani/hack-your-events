@@ -63,9 +63,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## Acknowledgments
 
 Special thanks to the Hack Your Future program and the entire open-source community for their support and contributions to this project. Together, we can make event management a seamless and enjoyable experience for everyone!
-```
 
-Make sure to copy and paste this content into your README.md file in your project repository. This will provide a clear overview of your app and how users can interact with it.
 
 # Deployment page link:
 https://646a7f1de49d324ac46a4b2a--jocular-quokka-07b283.netlify.app/

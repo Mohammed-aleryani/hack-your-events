@@ -1,6 +1,4 @@
-Sure, here's the README.md in Markdown format:
 
-```
 # Hack Your Event App
 
 Welcome to the Hack Your Event app, designed to enhance your event discovery and management experience for the Hack Your Future program. This web application allows you to effortlessly search for events, view event details, and organize your favorites, ensuring you never miss out on exciting opportunities.
@@ -15,13 +13,8 @@ Welcome to the Hack Your Event app, designed to enhance your event discovery and
 
 - **Favorite Events**: Keep track of your preferred events by adding them to your favorites list.
 
-- **Personalized Recommendations**: Receive event recommendations based on your interests and attendance history.
-
-- **User Reviews and Ratings**: Read reviews and ratings from other participants to make informed decisions.
-
 - **Seamless Event Registration**: Register for events seamlessly through the app.
 
-- **Social Sharing**: Share your favorite events with friends on social media.
 
 ## How to Use
 
@@ -31,11 +24,8 @@ Welcome to the Hack Your Event app, designed to enhance your event discovery and
 
 3. **Add to Favorites**: To save an event, click the "Add to Favorites" button on the event details page.
 
-4. **Personalized Recommendations**: Check out the "Recommended for You" section for personalized event suggestions.
-
 5. **Register for Events**: For events that require registration, click the "Register" button to secure your spot.
 
-6. **Share Events**: Share events you love with your friends by clicking the social media icons.
 
 ## Getting Started
 
@@ -61,11 +51,10 @@ To run the app locally, follow these steps:
    yarn start
    ```
 
-5. Open your web browser and go to `http://localhost:3000` to access the app.
 
 ## Contributing
 
-We welcome contributions to improve the Hack Your Event app. If you find any issues or have suggestions for new features, feel free to open an issue or submit a pull request.
+I welcome contributions to improve the Hack Your Event app. If you find any issues or have suggestions for new features, feel free to open an issue or submit a pull request.
 
 ## License
 

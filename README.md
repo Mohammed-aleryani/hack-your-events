@@ -1,9 +1,7 @@
 
 # Hack Your Event App
 
-Welcome to the Hack Your Event app, designed to enhance your event discovery and management experience for the Hack Your Future program. This web application allows you to effortlessly search for events, view event details, and organize your favorites, ensuring you never miss out on exciting opportunities https://646a7f1de49d324ac46a4b2a--jocular-quokka-
-07b283.netlify.app/.
-
+Welcome to the Hack Your Event app, designed to enhance your event discovery and management experience for the Hack Your Future program. This web application allows you to effortlessly search for events, view event details, and organize your favorites, ensuring you never miss out on exciting opportunities.
 ## Features
 
 - **Event Search**: Easily search for any event by name to find specific gatherings that interest you.
